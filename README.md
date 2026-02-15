@@ -22,7 +22,7 @@ To send the Malicious IOCTLs we will use DeviceIoControl with code 0x22201C, and
   <br>
 </p>
 
-Channel cfs (av/edr/xdr bypass) [Info](https://t.me/cryptfileservice) | follow us on [Twitter](https://twitter.com/EvilWhales) | Discord SERVER xCommunity CFS the [CFS - CRYPT FILE SERVICE](https://subscord.com/store/1429699829856075869/checkout/3V9ZXyco-ODEz) | Telegram [Contact](https://t.me/EvilWhales)
+Channel cfs (av/edr/xdr bypass) [Info](https://t.me/cfs_restore) | follow us on [Twitter](https://twitter.com/EvilWhales) | Discord SERVER xCommunity CFS the [CFS - CRYPT FILE SERVICE](https://subscord.com/store/1429699829856075869/checkout/3V9ZXyco-ODEz) | Telegram [Contact](https://t.me/cfs0x)
 
 ### Legal Disclaimer:
 
